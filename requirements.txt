@@ -1,0 +1,6 @@
+Django==2.2.3
+django-braces==1.14.0
+djangorestframework==3.11.0
+pytz==2019.1
+six==1.14.0
+sqlparse==0.3.0
